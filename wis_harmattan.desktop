@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=wis
+Exec=/usr/bin/invoker --single-instance --splash /opt/wis/share/splashscreen.png --splash-landscape /opt/wis/share/splashscreen_landscape.png  --type=d /opt/wis/bin/wis
+Icon=/usr/share/icons/hicolor/80x80/apps/wis80.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

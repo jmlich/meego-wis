@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>wis_cs_CZ.qm</file>
+    </qresource>
+</RCC>
