@@ -42,7 +42,7 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
-     inkscape:window-height="966"
+     inkscape:window-height="742"
      inkscape:window-x="0"
      inkscape:window-y="26"
      inkscape:window-maximized="1" />
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -165,6 +165,6 @@
          id="tspan3075"
          x="586.32727"
          y="945.66998"
-         style="font-size:24px">v 0.0.1</tspan></text>
+         style="font-size:24px">imlich@fit.vutbr.cz</tspan></text>
   </g>
 </svg>

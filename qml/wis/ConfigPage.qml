@@ -28,6 +28,9 @@ Page {
         width: parent.width
         placeholderText: qsTr("login")
         inputMethodHints: Qt.ImhNoAutoUppercase
+        Keys.onReturnPressed: {
+            passwordField.forceActiveFocus();
+        }
 
     }
 
@@ -37,6 +40,9 @@ Page {
         width: parent.width;
         placeholderText: qsTr("password")
         echoMode: TextInput.Password
+        Keys.onReturnPressed: {
+            save();
+        }
     }
 
 
