@@ -1,0 +1,246 @@
+<tasks>
+  <task>
+    <question>Jakou logickou funkci realizuje uvedený logický člen? &lt;br/&gt;  &lt;img src="./tests/mgr2011-b/001-001.png"&gt;</question>
+    <answerA>NOT</answerA>
+    <answerB>NOR</answerB>
+    <answerC>AND</answerC>
+    <answerD>NAND</answerD>
+    <answerE>XOR</answerE>
+    <correct>a</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Navrhněte synchronní obousměrný tříbitový čítač, který pracuje dle
+uvedeného grafu (stavy čítače jsou Q2Q1Q0). Směr čítání určuje signál
+Y. Pokud Y = 0, potom čítač čítá dolů (tj. 000 -> 100 -> 111 atd.).
+Pokud Y = 1, potom čítač čítá nahoru (tj. 000 -> 011 -> 001 atd.).
+Pozn. negace proměnné je zde označena symbolem „¬“, log. součet
+„+“ a log. součin „*“. Uvažujte řešení v MNDF a s KO typu JK.
+Vztah, který popisuje činnost vstupu K1 je:
+&lt;br/&gt;  &lt;img src="./tests/mgr2011-b/002-001.png"&gt;
+</question>
+    <answerA> K1 = Q2*¬Q0 + Q0*Y + ¬Q2*¬Y</answerA>
+    <answerB> K1 = Q0 + ¬Q2*Y + Q2*¬Y</answerB>
+    <answerC> K1 = Q1 + Q2*¬Y + ¬Q2*Y</answerC>
+    <answerD> K1 = Q2*Q0 + ¬Q1*Y + Q1*¬Y</answerD>
+    <answerE>Jiné.</answerE>
+    <correct>a</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Předpokládejme nulové zpoždění při průchodu signálu vodiči a
+zpoždění invertoru Delay=10 ns. Obvod na obrázku bude, na základě
+vstupního pulsu dle obrázku trvajícího 1 ms, generovat následující
+signál: &lt;br/&gt;  &lt;img src="./tests/mgr2011-b/003-001.png"&gt;
+</question>
+    <answerA>Na základě vzestupné hrany vstupního pulsu bude obvod generovat negativní puls 20 ns.</answerA>
+    <answerB>Na základě vzestupné hrany vstupního pulsu bude obvod generovat kladný puls 10 ns.</answerB>
+    <answerC>Na základě sestupné hrany vstupního pulsu bude obvod generovat kladný puls 20 ns.</answerC>
+    <answerD>Na základě sestupné hrany vstupního pulsu bude obvod generovat negativní puls 10 ns.</answerD>
+    <answerE>Jiné.</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Uvedená tabulka přechodů modeluje konečný automat, jehož počáteční stav je A. Na základě vstupní posloupnosti
+x=0110101100 bude automat generovat výstupní posloupnost: &lt;br/&gt;  &lt;img src="./tests/mgr2011-b/004-001.png"&gt;</question>
+    <answerA>y=0100110111, jedná se o Moorův automat.</answerA>
+    <answerB>y=0100110111, jedná se o Mealyho automat.</answerB>
+    <answerC>y=0110101100, jedná se o Mealyho automat.</answerC>
+    <answerD>y=0011010110, jedná se o Moorův automat.</answerD>
+    <answerE>Jiné.</answerE>
+    <correct>b</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Jaký typ paměti je obvykle použit pro realizaci registrového souboru (register file) v procesoru?</question>
+    <answerA>SRAM</answerA>
+    <answerB>DRAM</answerB>
+    <answerC>DDR2</answerC>
+    <answerD>Flash</answerD>
+    <answerE>EEPROM</answerE>
+    <correct>a</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Jaký je vztah mezi Fourierovou transformací s diskrétním časem (DTFT) a diskrétní Fourierovou transformací
+(DFT) pro signál o délce N vzorků?</question>
+    <answerA>DFT je ekvivalentní DTFT.</answerA>
+    <answerB>DFT je ekvivalentní DTFT pro všechny kladné normované kruhové frekvence.</answerB>
+    <answerC>DFT je zobecnění DTFT pro komplexní normované kruhové frekvence.</answerC>
+    <answerD>DFT jsou hodnoty DTFT pro normované kruhové frekvence 2πk/N.</answerD>
+    <answerE>DFT jsou hodnoty DTFT pro normované kruhové frekvence 2πk.</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>O množině A víme, že s každou podmnožinou &lt;img src="./tests/mgr2011-b/007-001.png"&gt; prvcích množina A obsahuje i &lt;img src="./tests/mgr2011-b/007-002.png"&gt; prvcích. Pak platí:</question>
+    <answerA>Množina A je konečná a má vždy sudý počet prvků.</answerA>
+    <answerB>Množina A je konečná a má vždy lichý počet prvků.</answerB>
+    <answerC>Množina A je prázdná.</answerC>
+    <answerD>Množina A je nekonečná.</answerD>
+    <answerE>Žádná taková množina A neexistuje.</answerE>
+    <correct>d</correct>
+    <points>90</points>
+    <pointsWrong>-18</pointsWrong>
+  </task>
+  <task>
+    <question>Pro funkci &lt;img src="./tests/mgr2011-b/008-001.png"&gt;. Tečná rovina ke grafu této funkce v daném bodě má tvar</question>
+    <answerA>2x - 3y - z + 8 = 0</answerA>
+    <answerB>2x - 3y + z + 8 = 0</answerB>
+    <answerC>z − 1 = 3(x + 2) + 5(y - 3)</answerC>
+    <answerD>z − 1 = 2(x - 3) + 3(y - 5)</answerD>
+    <answerE>z = 2 x + 3 y - 10</answerE>
+    <correct>b</correct>
+    <points>90</points>
+    <pointsWrong>-18</pointsWrong>
+  </task>
+  <task>
+    <question>Vůči kterým z následujících operací není uzavřená třída bezkontextových jazyků?</question>
+    <answerA>Průnik a sjednocení.</answerA>
+    <answerB>Průnik a doplněk.</answerB>
+    <answerC>Sjednocení a konkatenace.</answerC>
+    <answerD>Doplněk a iterace.</answerD>
+    <answerE>Konkatenace a iterace.</answerE>
+    <correct>b</correct>
+    <points>70</points>
+    <pointsWrong>-14</pointsWrong>
+  </task>
+  <task>
+    <question>Který z následujících výroků platí?</question>
+    <answerA>Bezkontextové gramatiky definují přesně třídu regulárních jazyků.</answerA>
+    <answerB>Pomocí pumping lemma lze převádět regulární výrazy na konečné automaty.</answerB>
+    <answerC>Minimální konečné automaty mají větší vyjadřovací sílu než zásobníkové automaty.</answerC>
+    <answerD>Existuje pouze konečný počet regulárních jazyků.</answerD>
+    <answerE>Každý nedeterministický konečný automat lze převést na ekvivalentní deterministický konečný automat.</answerE>
+    <correct>e</correct>
+    <points>70</points>
+    <pointsWrong>-14</pointsWrong>
+  </task>
+  <task>
+    <question>Poté, co analyzujeme problém z technické praxe, zjistíme, že máme za úkol najít řešení diferenciální rovnice
+y’(t) = 2y(t) + sin t. Rozhodneme se řešení hledat numericky nějakou jednokrokovou metodou. Mezi následujícími
+tvrzeními označte to, které je pravdivé:
+</question>
+    <answerA>Numerické řešení volíme proto, že jiný postup není možný.</answerA>
+    <answerB>Na to, abychom mohli začít úlohu řešit, nemáme dostatek informací. Potřebujeme znát např. hodnotu funkce y v alespoň 2 různých bodech.</answerB>
+    <answerC>Výstupem numerického řešení této úlohy bude hledaná funkce.</answerC>
+    <answerD>Volba jednokrokové metody není jediná možná – volit lze např. nějakou vícekrokovou metodu.</answerD>
+    <answerE>Při řešení budeme postupovat takto: zvolíme počáteční aproximaci a iterační proces budeme provádět tak dlouho, dokud nedosáhneme požadované přesnosti.</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Která metoda patří k metodám hraní her dvou protihráčů?</question>
+    <answerA>Metoda Minima a Maxima (Min-Max).</answerA>
+    <answerB>Metoda Minima konfliktů (Min-conflict).</answerB>
+    <answerC>Metoda K středů (K-means).</answerC>
+    <answerD>Waltzova metoda.</answerD>
+    <answerE>Metoda Hrej a vyhraj (Play and win).</answerE>
+    <correct>a</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Hodnota druhé rozptylovací funkce pro tabulku s rozptýlenými položkami v poli od 1..100 má tvar (kde klíč k je integer):</question>
+    <answerA>p=k mod 100</answerA>
+    <answerB>p=k mod 99 + 1</answerB>
+    <answerC>p=k mod 101</answerC>
+    <answerD>p=(k+1) mod 100</answerD>
+    <answerE>p=k mod 100 + 1</answerE>
+    <correct>b</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Co je střádač?</question>
+    <answerA>Registr, ve kterém se nachází buď operand a/nebo výsledky operací.</answerA>
+    <answerB>Registr určený pro dekódování instrukce.</answerB>
+    <answerC>Část paměti určená pro kopie polí čísel před operacemi s těmito čísly.</answerC>
+    <answerD>Část paměti určená pro kopie polí čísel po operacích s těmito čísly.</answerD>
+    <answerE>Registr pro uložení ukazatele na obslužný program přerušení.</answerE>
+    <correct>a</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Polymorfismus lze nejpřesněji popsat jako:</question>
+    <answerA>Volání metody s vynechaným kontextem.</answerA>
+    <answerB>Možnost vyměnit třídu objektu za běhu.</answerB>
+    <answerC>Navázání jména metody na její implementaci za běhu.</answerC>
+    <answerD>Možnost pojmenovat dvě metody stejně.</answerD>
+    <answerE>Možnost pojmenovat všechny metody stejně.</answerE>
+    <correct>c</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Testování programu technikou černá skříňka používá testovací kritérium založené:</question>
+    <answerA>na analýze struktury programu; nevyžaduje zdrojový text testovaného programu.</answerA>
+    <answerB>na specifikaci a návrhu; nevyžaduje zdrojový text testovaného programu.</answerB>
+    <answerC>na analýze struktury programu; vyžaduje zdrojový text testovaného programu.</answerC>
+    <answerD>na specifikaci a návrhu; vyžaduje zdrojový text testovaného programu.</answerD>
+    <answerE>na specifikaci a návrhu; vyžaduje zdrojový text testovaného programu, ale nevyžaduje spustitelný program.</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Operace sjednocení a průnik v relační algebře vyžadují,</question>
+    <answerA>aby obě relace měly stejné schéma.</answerA>
+    <answerB>aby obě relace obsahovaly stejný počet n-tic.</answerB>
+    <answerC>aby obě relace obsahovaly stejný počet atributů.</answerC>
+    <answerD>aby obě relace neobsahovaly duplicitní n-tice.</answerD>
+    <answerE>aby v obou relacích byl alespoň jeden stejně pojmenovaný atribut.</answerE>
+    <correct>a</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Které z uvedených výroků charakterizují tzv. FAT tabulku?</question>
+    <answerA>Popisuje rozložení dat souborů na disku, a to tak, že pro každý soubor obsahuje jeden řádek, ve kterém je buď
+uložen obsah příslušného souboru, nebo je v něm odkaz na B+ strom, z jehož listových uzlů jsou odkazy na extenty
+obsahující data souboru.</answerA>
+    <answerB>Popisuje rozložení dat souborů na disku, a to tak, že pro každý soubor obsahuje jeden řádek, ve kterém je buď
+uložen obsah příslušného souboru, nebo jsou tam odkazy na extenty obsahující data souboru, případně jsou zde
+odkazy na další, pomocné řádky, z nichž jsou pak odkazovány extenty obsahující data souborů.</answerB>
+    <answerC>Popisuje rozložení dat souborů na disku, a to tak, že pro každý soubor obsahuje zřetězený seznam, jehož
+jednotlivé položky odpovídají jednotlivým blokům souboru na disku.</answerC>
+    <answerD>Popisuje rozložení dat souborů na disku, a to tak, že pro každý soubor obsahuje odkaz na první blok souboru,
+přičemž první a další bloky souboru vytváří zřetězený seznam propojený odkazy uloženými ve vyhrazené části
+každého bloku na disku.</answerD>
+    <answerE>Popisuje rozdělení fyzického disku na disky logické.</answerE>
+    <correct>c</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Která z uvedených sběrnic využívá synchronní přenos?</question>
+    <answerA>PCIe</answerA>
+    <answerB>ISA</answerB>
+    <answerC>PCI</answerC>
+    <answerD>Centronics</answerD>
+    <answerE>SCSI</answerE>
+    <correct>c</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>TCP spojení vytváří virtuální spojení typu:</question>
+    <answerA>Full-duplex point-to-multipoint.</answerA>
+    <answerB>Full-duplex multipoint-to-multipoint.</answerB>
+    <answerC>Half-duplex point-to-multipoint.</answerC>
+    <answerD>Half-duplex point-to-point.</answerD>
+    <answerE>Full-duplex point-to-point.</answerE>
+    <correct>e</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+</tasks>

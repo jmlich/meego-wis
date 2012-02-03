@@ -1,0 +1,222 @@
+<tasks>
+  <task>
+    <question> Množina všech řešení rovnice &lt;img src="./tests/bc2011-3a/001-001.png"/&gt; v oboru reálných čísel je</question>
+    <answerA>{-1}</answerA>
+    <answerB>{1}</answerB>
+    <answerC>{2}</answerC>
+    <answerD>{-1, 2}</answerD>
+    <answerE>{-2, 1}</answerE>
+    <correct>c</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Rovnice kružnice se středem S = [1, -2] a poloměrem r = 2 je</question>
+    <answerA>&lt;img src="./tests/bc2011-3a/002-001.png"/&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-3a/002-002.png"/&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-3a/002-003.png"/&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-3a/002-004.png"/&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-3a/002-005.png"/&gt;</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>3 &lt;img src="./tests/bc2011-3a/003-001.png"/&gt;</question>
+    <answerA>&lt;img src="./tests/bc2011-3a/003-002.png"/&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-3a/003-003.png"/&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-3a/003-004.png"/&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-3a/003-005.png"/&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-3a/003-006.png"/&gt;</answerE>
+    <correct>d</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Ze 60 zaměstnanců firmy jich 28 chodí do kurzu angličtiny a 17 do kurzu němčiny. 20 lidí nechodí do žádného z těchto kurzů. Kolik zaměstnanců chodí do němčiny, a přitom nechodí do angličtiny?</question>
+    <answerA>9</answerA>
+    <answerB>10</answerB>
+    <answerC>11</answerC>
+    <answerD>12</answerD>
+    <answerE>13</answerE>
+    <correct>d</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question> Množina všech řešení nerovnice &lt;img src="./tests/bc2011-3a/005-001.png"/&gt; je</question>
+    <answerA>&lt;img src="./tests/bc2011-3a/005-002.png"/&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-3a/005-003.png"/&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-3a/005-004.png"/&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-3a/005-005.png"/&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-3a/005-006.png"/&gt;</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Mezi čísly a, b, c, d, e platí nerovnosti: a &amp;lt; b, b &amp;gt; c, a &amp;lt; d, b &amp;lt; e. Který z následujících vztahů nemůže platit?</question>
+    <answerA>a &amp;lt; c</answerA>
+    <answerB>a &amp;gt; c</answerB>
+    <answerC>b = d</answerC>
+    <answerD>a = e</answerD>
+    <answerE>Může platit kterýkoli z předchozích vztahů.</answerE>
+    <correct>d</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Jestliže &lt;img src="./tests/bc2011-3a/007-001.png"/&gt;, pak &lt;img src="./tests/bc2011-3a/007-002.png"/&gt; právě pro</question>
+    <answerA>&lt;img src="./tests/bc2011-3a/007-003.png"/&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-3a/007-004.png"/&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-3a/007-005.png"/&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-3a/007-006.png"/&gt;</answerD>
+    <answerE> žádná z předchozích možností není správná</answerE>
+    <correct>a</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question> Pro libovolná dvě čísla x, y splňující podmínku y = x + π/2 platí</question>
+    <answerA>a) sin x = sin y</answerA>
+    <answerB>b) cos x = cos y</answerB>
+    <answerC>c) sin x = cos y</answerC>
+    <answerD>d) sin x = - cos y</answerD>
+    <answerE>e) sin y = - cos x</answerE>
+    <correct>d</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Určete všechny hodnoty parametru p, pro které má rovnice &lt;img src="./tests/bc2011-3a/009-001.png"/&gt; dva různé reálné kořeny.</question>
+    <answerA>&lt;img src="./tests/bc2011-3a/009-002.png"/&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-3a/009-003.png"/&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-3a/009-004.png"/&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-3a/009-005.png"/&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-3a/009-006.png"/&gt;</answerE>
+    <correct>d</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question> Jestliže první člen aritmetické posloupnosti je a&lt;sub&gt;1&lt;/sub&gt; = 5 a součet prvních pěti členů této posloupnosti je 40, pak diference d je rovna</question>
+    <answerA>1</answerA>
+    <answerB>1,2</answerB>
+    <answerC>1,5</answerC>
+    <answerD>4,5</answerD>
+    <answerE>8,75</answerE>
+    <correct>c</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question> Je dána funkce &lt;img src="./tests/bc2011-3a/011-001.png"/&gt;. Pak &lt;img src="./tests/bc2011-3a/011-002.png"/&gt;</question>
+    <answerA>&lt;img src="./tests/bc2011-3a/011-003.png"/&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-3a/011-004.png"/&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-3a/011-005.png"/&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-3a/011-006.png"/&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-3a/011-007.png"/&gt;</answerE>
+    <correct>b</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Přímky &lt;img src="./tests/bc2011-3a/012-001.png"/&gt; jsou</question>
+    <answerA>kolmé</answerA>
+    <answerB>různoběžné, ale nikoli kolmé</answerB>
+    <answerC>rovnoběžné různé</answerC>
+    <answerD>totožné</answerD>
+    <answerE>mimoběžné</answerE>
+    <correct>d</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question> Máme kartičky, jejichž líc i rub jsou nezávisle na sobě obarveny některou ze čtyř barev. Na líci každé kartičky je jeden z pěti různých obrázků. Všechny možné kombinace barev líce a rubu a obrázku jsou zastoupeny a žádné dvě karty nejsou stejné. Kolik je karet celkem?</question>
+    <answerA>13</answerA>
+    <answerB>20</answerB>
+    <answerC>40</answerC>
+    <answerD>60</answerD>
+    <answerE>80</answerE>
+    <correct>e</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question> Řešení rovnice 3z - 5 = i(z - 5) v komplexním oboru je</question>
+    <answerA>-1 + 2i</answerA>
+    <answerB>1 + 2i</answerB>
+    <answerC>1 - 2i</answerC>
+    <answerD>2 + i</answerD>
+    <answerE>2 - i</answerE>
+    <correct>e</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Krychle má hranu a = 2. Koule o stejném povrchu jako tato krychle má poloměr</question>
+    <answerA>&lt;img src="./tests/bc2011-3a/015-001.png"/&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-3a/015-002.png"/&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-3a/015-003.png"/&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-3a/015-004.png"/&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-3a/015-005.png"/&gt;</answerE>
+    <correct>b</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Karlovi je dvakrát tolik let, jako bylo Honzovi, když bylo Karlovi tolik let, kolik je teď Honzovi. Až bude Honzovi o čtyři roky víc, než je teď Karlovi, bude Karlovi o 20 let víc, než je teď Honzovi. Kolik let je Honzovi a Karlovi dnes dohromady?</question>
+    <answerA>45</answerA>
+    <answerB>52</answerB>
+    <answerC>56</answerC>
+    <answerD>64</answerD>
+    <answerE>81</answerE>
+    <correct>c</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Množina reálných řešení rovnice &lt;img src="./tests/bc2011-3a/017-001.png"/&gt; na intervalu &lt;img src="./tests/bc2011-3a/017-002.png"/&gt;</question>
+    <answerA>&lt;img src="./tests/bc2011-3a/017-003.png"/&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-3a/017-004.png"/&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-3a/017-005.png"/&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-3a/017-006.png"/&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-3a/017-007.png"/&gt;</answerE>
+    <correct>c</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>V krabici jsou předměty různých vlastností. Víme, že všechny krychle jsou bílé a že všechny duté předměty mají tvar krychle. Jaký závěr ohledně předmětů v krabici z těchto informací můžeme vyvodit?</question>
+    <answerA>Žádný dutý předmět není bílý.</answerA>
+    <answerB>Žádný bílý předmět není dutý.</answerB>
+    <answerC>Všechny bílé předměty jsou duté.</answerC>
+    <answerD>Všechny duté předměty jsou bílé.</answerD>
+    <answerE>Žádné z předchozích tvrzení z uvedených předpokladů neplyne.</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Operace &lt;img src="./tests/bc2011-3a/019-001.png"/&gt; je definována jako a &lt;img src="./tests/bc2011-3a/019-002.png"/&gt;. Určete x, víme-li, že &lt;img src="./tests/bc2011-3a/019-003.png"/&gt;.</question>
+    <answerA>3</answerA>
+    <answerB>2</answerB>
+    <answerC>1</answerC>
+    <answerD>0</answerD>
+    <answerE>-1</answerE>
+    <correct>a</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Dvě pumpy vyčerpají cisternu za 3,75 hodiny. První pumpou by se cisterna vyprázdnila o 4 hodiny dříve než druhou pumpou. Za kolik hodin by se cisterna vyprázdnila pouze druhou (méně výkonnou) pumpou? (Pomůcka: 3,5&lt;sup&gt;2&lt;/sup&gt; = 12,25; 8,5&lt;sup&gt;2&lt;/sup&gt; = 72,25; 11,5&lt;sup&gt;2&lt;/sup&gt; = 132,25; 17&lt;sup&gt;2&lt;/sup&gt; = 289; 23&lt;sup&gt;2&lt;/sup&gt; = 529)</question>
+    <answerA>11</answerA>
+    <answerB>10</answerB>
+    <answerC>9,5</answerC>
+    <answerD>8</answerD>
+    <answerE>7,5</answerE>
+    <correct>b</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+</tasks>

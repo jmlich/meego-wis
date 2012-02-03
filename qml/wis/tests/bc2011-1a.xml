@@ -1,0 +1,224 @@
+<?xml-stylesheet type="text/xsl" href="pisemka.xsl"?>
+<tasks>
+  <task>
+    <question>Množina všech řešení rovnice &lt;img src="./tests/bc2011-1a/001-001.png"&gt; v oboru reálných čísel je</question>
+    <answerA>{−2, 1}</answerA>
+    <answerB>{−1, 2}</answerB>
+    <answerC>{−2}</answerC>
+    <answerD>{−1}</answerD>
+    <answerE>{1}</answerE>
+    <correct>c</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question> Rovnice kružnice se středem S = [−1, 2] a poloměrem r = 2 je</question>
+    <answerA>x&lt;sup&gt;2&lt;/sup&gt; - 2x + y&lt;sup&gt;2&lt;/sup&gt; + 4y + 3 = 0</answerA>
+    <answerB>x&lt;sup&gt;2&lt;/sup&gt; - 2x + y&lt;sup&gt;2&lt;/sup&gt; + 4y + 1 = 0</answerB>
+    <answerC>x&lt;sup&gt;2&lt;/sup&gt; + 2x + y&lt;sup&gt;2&lt;/sup&gt; - 4y + 3 = 0</answerC>
+    <answerD>x&lt;sup&gt;2&lt;/sup&gt; + 2x + y&lt;sup&gt;2&lt;/sup&gt; - 4y + 2 = 0</answerD>
+    <answerE>x&lt;sup&gt;2&lt;/sup&gt; + 2x + y&lt;sup&gt;2&lt;/sup&gt; - 4y + 1 = 0</answerE>
+    <correct>e</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Pro &lt;img src="./tests/bc2011-1a/003-001.png"&gt; platí &lt;img src="./tests/bc2011-1a/003-002.png"&gt;</question>
+    <answerA>&lt;img src="./tests/bc2011-1a/003-003.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1a/003-004.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1a/003-005.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1a/003-006.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1a/003-007.png"&gt;</answerE>
+    <correct>d</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Ze 60 zaměstnanců firmy jich 28 chodí do kurzu angličtiny a 17 do kurzu němčiny. 20 lidí nechodí do žádného z těchto kurzů. Kolik zaměstnanců chodí do obou uvedených kurzů?</question>
+    <answerA>5</answerA>
+    <answerB>6</answerB>
+    <answerC>7</answerC>
+    <answerD>8</answerD>
+    <answerE>9</answerE>
+    <correct>a</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Množina všech řešení nerovnice &lt;img src="./tests/bc2011-1a/005-001.png"&gt; je</question>
+    <answerA>&lt;img src="./tests/bc2011-1a/005-002.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1a/005-003.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1a/005-004.png"&gt;</answerC>
+    <answerD>(2, 6)</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1a/005-005.png"&gt;</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Mezi čísly a, b, c, d, e platí nerovnosti: a &amp;gt; b, b &amp;lt; d, c &amp;gt; d, e &amp;gt; b. Který z následujících vztahů nemůže</question>
+    <answerA>a &amp;lt; c</answerA>
+    <answerB>a &amp;gt; c</answerB>
+    <answerC>b &amp;gt; c</answerC>
+    <answerD>d &amp;lt; e</answerD>
+    <answerE>Může platit kterýkoli z předchozích vztahů.</answerE>
+    <correct>c</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question> Jestliže &lt;img src="./tests/bc2011-1a/007-001.png"&gt;, pak &lt;img src="./tests/bc2011-1a/007-002.png"&gt; právě pro</question>
+    <answerA>&lt;img src="./tests/bc2011-1a/007-003.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1a/007-004.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1a/007-005.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1a/007-006.png"&gt;</answerD>
+    <answerE>žádná z předchozích možností není správná</answerE>
+    <correct>c</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question> Pro libovolná dvě čísla x, y splňující podmínku &lt;img src="./tests/bc2011-1a/008-001.png"&gt; platí</question>
+    <answerA>cos x = cos y</answerA>
+    <answerB>cos x = - cos y</answerB>
+    <answerC>sin x = - sin y</answerC>
+    <answerD>sin x = cos y</answerD>
+    <answerE>sin y = cos x</answerE>
+    <correct>b</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Určete všechny hodnoty parametru p, pro které rovnice &lt;img src="./tests/bc2011-1a/009-001.png"&gt; nemá reálné kořeny.</question>
+    <answerA>&lt;img src="./tests/bc2011-1a/009-002.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1a/009-003.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1a/009-004.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1a/009-005.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1a/009-006.png"&gt;</answerE>
+    <correct>b</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question> Jestliže čtvrtý člen aritmetické posloupnosti je &lt;img src="./tests/bc2011-1a/010-001.png"&gt; a diference je d = 3, pak součet prvních tří členů této posloupnosti je</question>
+    <answerA>2</answerA>
+    <answerB>3</answerB>
+    <answerC>4</answerC>
+    <answerD>12</answerD>
+    <answerE>30</answerE>
+    <correct>b</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Je dána funkce &lt;img src="./tests/bc2011-1a/011-001.png"&gt;. Pak  &lt;img src="./tests/bc2011-1a/011-002.png"&gt;</question>
+    <answerA>&lt;img src="./tests/bc2011-1a/011-003.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1a/011-004.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1a/011-005.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1a/011-006.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1a/011-007.png"&gt;</answerE>
+    <correct>d</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Rovnice přímky procházející body A = [-1, 2] a B = [1, -4] je</question>
+    <answerA>x + 3y - 5 = 0</answerA>
+    <answerB>x - 3y + 7 = 0</answerB>
+    <answerC>-x + 3y + 13 = 0</answerC>
+    <answerD>3x + y + 1 = 0</answerD>
+    <answerE>3x + y - 5 = 0</answerE>
+    <correct>d</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Máme kartičky, jejichž líc a rub je obarven některou ze čtyř barev, přičemž barva líce je vždy jiná než barva rubu. Na líci každé kartičky je jeden z pěti různých obrázků. Všechny přípustné kombinace barev líce a rubu a obrázku jsou zastoupeny a žádné dvě karty nejsou stejné. Kolik je karet celkem?</question>
+    <answerA>12</answerA>
+    <answerB>20</answerB>
+    <answerC>60</answerC>
+    <answerD>80</answerD>
+    <answerE>120</answerE>
+    <correct>c</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Řešení rovnice 2 - 3z = i(11 - 4z) v komplexním oboru je</question>
+    <answerA>-1 + 2i</answerA>
+    <answerB>1 + 2i</answerB>
+    <answerC>1 - 2i</answerC>
+    <answerD>2 + i</answerD>
+    <answerE>2 - i</answerE>
+    <correct>e</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Krychle má hranu a = 3. Koule o stejném objemu jako tato krychle má poloměr</question>
+    <answerA>&lt;img src="./tests/bc2011-1a/015-001.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1a/015-002.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1a/015-003.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1a/015-004.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1a/015-005.png"&gt;</answerE>
+    <correct>c</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Máše je dvakrát méně, než bude Dáše, až Máše bude tolik let, kolik je nyní Dáše. Když bylo Dáše tolik,
+kolik je nyní Máše, bylo jim dohromady 30 let. Kolik let je jim dohromady nyní?</question>
+    <answerA>42</answerA>
+    <answerB>45</answerB>
+    <answerC>50</answerC>
+    <answerD>60</answerD>
+    <answerE>66</answerE>
+    <correct>c</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question> Řešením rovnice &lt;img src="./tests/bc2011-1a/017-001.png"&gt; v oboru reálných čísel jsou právě ta &lt;img src="./tests/bc2011-1a/017-002.png"&gt;, pro která platí (k je celé číslo)</question>
+    <answerA>&lt;img src="./tests/bc2011-1a/017-003.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1a/017-004.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1a/017-005.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1a/017-006.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1a/017-007.png"&gt;</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>V krabici jsou předměty různých vlastností. Víme, že všechny kovové předměty jsou šedé a všechny šedé předměty mají tvar válce. Jaký závěr ohledně předmětů v krabici z těchto informací můžeme vyvodit?</question>
+    <answerA>Žádný válec není kovový.</answerA>
+    <answerB>Žádný kovový předmět nemá tvar válce.</answerB>
+    <answerC>Všechny válce jsou kovové.</answerC>
+    <answerD>Všechny kovové předměty mají tvar válce.</answerD>
+    <answerE>Žádné z předchozích tvrzení z uvedených předpokladů neplyne.</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question> Operace &lt;img src="./tests/bc2011-1a/019-001.png"&gt; je definována jako &lt;img src="./tests/bc2011-1a/019-002.png"&gt; . Určete x, víme-li, že &lt;img src="./tests/bc2011-1a/017-003.png"&gt;</question>
+    <answerA>-3</answerA>
+    <answerB>-2</answerB>
+    <answerC>-1</answerC>
+    <answerD>0</answerD>
+    <answerE>1</answerE>
+    <correct>a</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Jeden tým vykoná určitou práci o 4 hodiny, druhý tým o 9 hodin později, než by ji zvládly při společné práci. Jak dlouho trvá práce pomalejšímu týmu?</question>
+    <answerA>15 hod</answerA>
+    <answerB>14 hod</answerB>
+    <answerC>13 hod</answerC>
+    <answerD>12 hod</answerD>
+    <answerE>11 hod</answerE>
+    <correct>a</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+</tasks>

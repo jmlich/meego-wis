@@ -1,0 +1,226 @@
+<tasks>
+  <task>
+    <question>Jakou logickou funkci realizuje uvedený logický člen? &lt;br/&gt;  &lt;img src="./tests/mgr2011-a/001-001.png"&gt;</question>
+    <answerA>NOT</answerA>
+    <answerB>NOR</answerB>
+    <answerC>AND</answerC>
+    <answerD>NAND</answerD>
+    <answerE>XOR</answerE>
+    <correct>d</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Z daného schématu posuvného registru určete jeho funkce: &lt;br/&gt;  &lt;img src="./tests/mgr2011-a/002-001.png"&gt;</question>
+    <answerA>shift right, parallel load, hold, rotation left</answerA>
+    <answerB>parallel load, hold, rotation right, rotation left</answerB>
+    <answerC>shift right, shift left, parallel load, hold</answerC>
+    <answerD> shift left, hold, parallel load, rotation right</answerD>
+    <answerE>Jiné.</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Odolnost proti rušení u logických členů znamená, že:</question>
+    <answerA>obvody jsou odolné proti jakémukoliv rušení.</answerA>
+    <answerB>logické úrovně na vstupech mají větší toleranci hodnot než logické úrovně na výstupech.</answerB>
+    <answerC>logické úrovně na vstupech mají stejnou toleranci hodnot jako logické úrovně na výstupech.</answerC>
+    <answerD>na ně nepůsobí kosmické záření.</answerD>
+    <answerE>Jiné.</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Mějme zadánu tabulku přechodů automatu se vstupem A a Mealyho výstupem Y. Automat je inicializován do počátečního stavu s kódem ”00”. Určete, kolik platných stavů má daný automat (pozn.: za platné stavy považujeme jen ty, do kterých automat může přejít z počátečního stavu). &lt;br/&gt;  &lt;img src="./tests/mgr2011-a/004-001.png"&gt;</question>
+    <answerA>1</answerA>
+    <answerB>2</answerB>
+    <answerC>3</answerC>
+    <answerD>4</answerD>
+    <answerE>Jiné</answerE>
+    <correct>c</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Který typ konfliktů, které vznikají při řetězeném zpracování instrukcí v procesorech, může být ošetřen zavedením prediktoru skoků?</question>
+    <answerA>datový</answerA>
+    <answerB>řídicí</answerB>
+    <answerC>strukturní</answerC>
+    <answerD>sériový</answerD>
+    <answerE>paralelní</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Jaký je vztah mezi přenosovou funkcí číslicového filtru H(z)=B(z)/A(z) a jeho kmitočtovou charakteristikou?</question>
+    <answerA>Kmitočtová charakteristika vznikne diskrétní Fourierovou transformací koeficientů polynomu B(z).</answerA>
+    <answerB>Kmitočtová charakteristika vznikne diskrétní Fourierovou transformací koeficientů polynomu A(z).</answerB>
+    <answerC>Kmitočtová charakteristika vznikne diskrétní Fourierovou transformací konkatenace koeficientů obou polynomů A(z) i B(z).</answerC>
+    <answerD>Kmitočtová charakteristika vznikne dosazením hodnoty e&lt;sup&gt;jω&lt;/sup&gt; za z a výpočtem pro požadovaný interval frekvencí.</answerD>
+    <answerE>Kmitočtová charakteristika vznikne dosazením hodnoty e&lt;sup&gt;jω&lt;/sup&gt; za z a výpočtem pouze pro frekvence ω=2π/16.</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+
+  <task>
+    <question>Na stejné, pevně dané a konečné množině M jsou definovány Booleovy algebry A, B, C . Pak platí:</question>
+    <answerA>A, B, C jsou zcela totožné – jejich Booleovské operace dávají stejné výsledky.</answerA>
+    <answerB>A, B, C nemusí být stejné, avšak jsou vždy navzájem izomorfní. Prvky množiny M však mohou mít v algebrách A, B, C různé významy.</answerB>
+    <answerC>A, B, C nemusí být nutně izomorfní, mají jen stejný počet prvků.</answerC>
+    <answerD>Na konečné množině M nemůže existovat žádná Booleova algebra.</answerD>
+    <answerE>Počet prvků množiny M je dělitelný číslem 3.</answerE>
+    <correct>b</correct>
+    <points>90</points>
+    <pointsWrong>-18</pointsWrong>
+  </task>
+  <task>
+    <question>8. Jestliže pro funkci f a množinu M platí &lt;img src="./tests/mgr2011-a/008-001.png"&gt;, do kterého z následujících intervalů zobrazí množinu M funkce &lt;img src="./tests/mgr2011-a/008-002.png"&gt;</question>
+    <answerA>(1, 4)</answerA>
+    <answerB>&lt;img src="./tests/mgr2011-a/008-003.png"&gt;</answerB>
+    <answerC>(-4, 0)</answerC>
+    <answerD>&lt;img src="./tests/mgr2011-a/008-004.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/mgr2011-a/008-005.png"&gt;</answerE>
+    <correct>e</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Vlastnosti vyplývající z pumping lemmatu pro bezkontextové jazyky platí pro:</question>
+    <answerA>libovolný řetězec nad nějakou abecedou, jehož délka je menší než nějaká konstanta k.</answerA>
+    <answerB>každý řetězec nad nějakou abecedou, jehož délka je rovna nějaké konstantě k.</answerB>
+    <answerC>každý řetězec, který patří do bezkontextového jazyka a jehož délka je větší nebo rovna nějaké konstantě k.</answerC>
+    <answerD>libovolný řetězec nad nějakou abecedou, jehož délka je rovna nějaké konstantě k.</answerD>
+    <answerE>každý řetězec nad nějakou abecedou, jehož délka je menší než nějaká konstanta k.</answerE>
+    <correct>c</correct>
+    <points>70</points>
+    <pointsWrong>-14</pointsWrong>
+  </task>
+  <task>
+    <question>Jakou činnost typicky provádí lexikální analyzátor?</question>
+    <answerA>Kontrola správnosti syntaxe zdrojového kódu.</answerA>
+    <answerB>Rozdělení zdrojového kódu na tokeny.</answerB>
+    <answerC>Kontrola správnosti sémantiky zdrojového kódu.</answerC>
+    <answerD>Vytvoření syntaktického stromu ze zdrojového kódu.</answerD>
+    <answerE>Generování zdrojového kódu.</answerE>
+    <correct>b</correct>
+    <points>70</points>
+    <pointsWrong>-14</pointsWrong>
+  </task>
+  <task>
+    <question>Stokrát opakujeme tentýž pokus: z intervalu &amp;lt;0,100 &amp;gt; generujeme vždy právě dvě čísla. Chceme určit
+pravděpodobnost, že takto alespoň 10krát vygenerujeme čísla, jejichž součet je menší než nějaké předem dané číslo x
+a součin je větší než nějaké jiné předem dané číslo y. Označte tvrzení, které není pravdivé.
+</question>
+    <answerA>Lze zvolit taková čísla x,y z intervalu &amp;lt;0,10 000 &amp;gt;, že hledaná pravděpodobnost bude nulová.</answerA>
+    <answerB>Úlohu lze řešit s využitím geometrické pravděpodobnosti a binomického rozložení (rozdělení) pravděpodobnosti (případně s aproximací binomického rozložení (rozdělení) pravděpodobnosti normálním).</answerB>
+    <answerC>Při určování hledané pravděpodobnosti nezáleží na tom, jaká čísla skutečně vygenerujeme.</answerC>
+    <answerD>Pokud se rozhodneme řešit tuto úlohu pomocí geometrické pravděpodobnosti, bude volba x=10, y=1 znamenat nutnost určení obsahu nějaké plochy.</answerD>
+    <answerE>Pro x=y bude hledaná pravděpodobnost větší než 0,5.</answerE>
+    <correct>e</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>S čím se pracuje v metodě A&lt;sup&gt;*&lt;/sup&gt;?</question>
+    <answerA>Se shluky relevantních příznaků.</answerA>
+    <answerB>S číselným ohodnocením uzlů.</answerB>
+    <answerC>S binárními stromy.</answerC>
+    <answerD>S alfa a beta řezy.</answerD>
+    <answerE>S diskriminačními funkcemi.</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Optimálně napsaný algoritmus nerekurzivního Quick sortu vystačí pro řazení 1000 prvků se zásobníkem pro:</question>
+    <answerA>1000 dvojic.</answerA>
+    <answerB>500 dvojic.</answerB>
+    <answerC>100 dvojic.</answerC>
+    <answerD>50 dvojic.</answerD>
+    <answerE>10 dvojic.</answerE>
+    <correct>e</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Podle čeho procesor zjistí, kterou instrukci má právě provést?</question>
+    <answerA>Podle předchozí instrukce.</answerA>
+    <answerB>Podle obsahu zásobníku.</answerB>
+    <answerC>Podle obsahu ukazatele instrukcí.</answerC>
+    <answerD>Podle obsahu tabulky vektorů přerušení.</answerD>
+    <answerE>Podle obsahu střádače.</answerE>
+    <correct>c</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Co je to metatřída (angl. Metaclass)?</question>
+    <answerA>třída třídy</answerA>
+    <answerB>částečně definovaná třída</answerB>
+    <answerC>třídy bez instancí</answerC>
+    <answerD>třída s abstraktní metodou</answerD>
+    <answerE>generalizovaná třída</answerE>
+    <correct>a</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Pro strategii implementace zdola nahoru platí, že:</question>
+    <answerA>logika systému se při vývoji opakovaně ověřuje.</answerA>
+    <answerB>celý systém lze demonstrovat (předvést zákazníkovi) poměrně brzy.</answerB>
+    <answerC>chyby v logice se objevují až v etapě integračního testování.</answerC>
+    <answerD>pro účely testování potřebujeme simulační modely, které simulují práci podsystémů.</answerD>
+    <answerE>pro otestování systému nelze použít strukturální testování.</answerE>
+    <correct>c</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Ve které normální formě je schéma relace R, pokud tam platí, že neexistuje žádný neklíčový atribut, který je tranzitivně závislý na některém kandidátním klíči relace R?</question>
+    <answerA>Ve 2. normální formě.</answerA>
+    <answerB>Ve 2. normální formě, pouze pokud je zároveň i v 1. normální formě.</answerB>
+    <answerC>Ve 3. normální formě.</answerC>
+    <answerD>Ve 3. normální formě, pouze pokud je zároveň i ve 2. normální formě.</answerD>
+    <answerE>V Boyce-Coddově normální formě, pokud je zároveň v 1., 2. i 3. normální formě.</answerE>
+    <correct>d</correct>
+    <points>30</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Jaký jev označujeme pojmem inverze priorit?</question>
+    <answerA>Situaci, kdy plánovač sníží prioritu některých procesů a naopak zvýší prioritu procesů jiných, a to proto, aby zamezil stárnutí.</answerA>
+    <answerB>Situaci, kdy plánovač sníží prioritu některých procesů a naopak zvýší prioritu procesů jiných, a to proto, aby zlepšil reakci procesů interagujících s uživatelem.</answerB>
+    <answerC>Situaci, kdy plánovač sníží prioritu některých procesů a naopak zvýší prioritu procesů jiných, a to proto, aby nedošlo k uváznutí.</answerC>
+    <answerD>Situaci, kdy některý málo prioritní proces vlastní zdroje, které potřebuje ke svému běhu více prioritní proces, který pak musí čekat, až nízko prioritní proces příslušné zdroje uvolní (ten ovšem může být blokován některými dalšími středně prioritními procesy).</answerD>
+    <answerE>Situaci, kdy plánovač zamění priority vysoko a nízko prioritních procesů, aby vysoce prioritní proces nemusel čekat na proces nízko prioritní, který mu blokuje potřebné zdroje.</answerE>
+    <correct>d</correct>
+    <points>30</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Která z uvedených sběrnic využívá sériový protokol?</question>
+    <answerA>PCI</answerA>
+    <answerB>PCIe</answerB>
+    <answerC>ISA</answerC>
+    <answerD>IDE</answerD>
+    <answerE>Centronics</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Funkce firewallu může být:</question>
+    <answerA>šifrování datového přenosu.</answerA>
+    <answerB>detekce anomálie v komunikačním protokolu.</answerB>
+    <answerC>sledování účtů.</answerC>
+    <answerD>stavové filtrování.</answerD>
+    <answerE>zvětšení směrovacích tabulek.</answerE>
+    <correct>d</correct>
+    <points>30</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+</tasks>

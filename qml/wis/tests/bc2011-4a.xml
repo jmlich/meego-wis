@@ -1,0 +1,222 @@
+<tasks>
+  <task>
+    <question>Množina všech řešení rovnice &lt;img src="./tests/bc2011-4a/001-001.png" /&gt; v oboru reálných čísel je</question>
+    <answerA>{-2, 1}</answerA>
+    <answerB>{-1, 2}</answerB>
+    <answerC>{-1}</answerC>
+    <answerD>{1}</answerD>
+    <answerE>{2}</answerE>
+    <correct>d</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Rovnice kružnice se středem S = [1, 2] a poloměrem r = 3 je</question>
+    <answerA>&lt;img src="./tests/bc2011-4a/002-001.png" /&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-4a/002-002.png" /&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-4a/002-003.png" /&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-4a/002-004.png" /&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-4a/002-005.png" /&gt;</answerE>
+    <correct>c</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>&lt;img src="./tests/bc2011-4a/003-001.png" /&gt;</question>
+    <answerA>&lt;img src="./tests/bc2011-4a/003-002.png" /&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-4a/003-003.png" /&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-4a/003-004.png" /&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-4a/003-005.png" /&gt;</answerD>
+    <answerE>0</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Máme 70 sklenic džemu o objemu 0,3 litru. Kdyby byl džem ve sklenicích o objemu 0,5 litru, kolik sklenic by bylo naplněno?</question>
+    <answerA>40</answerA>
+    <answerB>42</answerB>
+    <answerC>44</answerC>
+    <answerD>46</answerD>
+    <answerE>48</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Množina všech řešení nerovnice &lt;img src="./tests/bc2011-4a/005-001.png" /&gt; je</question>
+    <answerA>&lt;img src="./tests/bc2011-4a/005-002.png" /&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-4a/005-003.png" /&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-4a/005-004.png" /&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-4a/005-005.png" /&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-4a/005-006.png" /&gt;</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question> Mezi čísly a, b, c, d, e platí nerovnosti: a &amp;lt; c, b &amp;lt; e, c &amp;gt; d, d &amp;gt; b, e &amp;lt; c. Který z následujících vztahů nemůže platit?</question>
+    <answerA>a &amp;lt; b</answerA>
+    <answerB>a &amp;gt; b</answerB>
+    <answerC>d &amp;lt; e</answerC>
+    <answerD>d &amp;gt; e</answerD>
+    <answerE>Může platit kterýkoli z předchozích vztahů.</answerE>
+    <correct>e</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Jestliže &lt;img src="./tests/bc2011-4a/007-001.png" /&gt;, pak  &lt;img src="./tests/bc2011-4a/007-002.png" /&gt; právě pro</question>
+    <answerA>&lt;img src="./tests/bc2011-4a/007-003.png" /&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-4a/007-004.png" /&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-4a/007-005.png" /&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-4a/007-006.png" /&gt;</answerD>
+    <answerE> žádná z předchozích možností není správná</answerE>
+    <correct>d</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Jestliže x a y jsou dvě různá čísla z intervalu (0, π), pro která platí sin x = sin y, pak</question>
+    <answerA>y = -x</answerA>
+    <answerB>y = (π/2) - x</answerB>
+    <answerC>y = π - x</answerC>
+    <answerD>x = π/4 a y = 9π/4</answerD>
+    <answerE>taková x, y neexistují</answerE>
+    <correct>c</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question> Určete všechny hodnoty parametru p, pro které má rovnice &lt;img src="./tests/bc2011-4a/009-001.png" /&gt; dva různé reálné kořeny. </question>
+    <answerA>&lt;img src="./tests/bc2011-4a/009-002.png" /&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-4a/009-003.png" /&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-4a/009-004.png" /&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-4a/009-005.png" /&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-4a/009-006.png" /&gt;</answerE>
+    <correct>d</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Aritmetická posloupnost, ve které je a&lt;sub&gt;4&lt;/sub&gt; = 8 a a&lt;sub&gt;8&lt;/sub&gt; = 0, má první člen a&lt;sub&gt;1&lt;/sub&gt; rovný</question>
+    <answerA>16</answerA>
+    <answerB>14</answerB>
+    <answerC>12</answerC>
+    <answerD>10</answerD>
+    <answerE>8</answerE>
+    <correct>b</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Je dána funkce &lt;img src="./tests/bc2011-4a/011-001.png" /&gt;. Pak &lt;img src="./tests/bc2011-4a/011-002.png" /&gt;</question>
+    <answerA>&lt;img src="./tests/bc2011-4a/011-003.png" /&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-4a/011-004.png" /&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-4a/011-005.png" /&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-4a/011-006.png" /&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-4a/011-007.png" /&gt;</answerE>
+    <correct>d</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Rovnice přímky procházející body A = [1, 7] a B = [-1, 3] je</question>
+    <answerA>x + 2y - 15 = 0</answerA>
+    <answerB>-x + 2y - 13 = 0</answerB>
+    <answerC>2x + y - 9 = 0</answerC>
+    <answerD>-2x + y - 9 = 0</answerD>
+    <answerE>2x - y + 5 = 0</answerE>
+    <correct>e</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Máme kartičky, jejichž líc i rub jsou nezávisle na sobě obarveny některou ze tří barev. Na líci každé kartičky je jeden z pěti různých obrázků. Všechny možné kombinace barev líce a rubu a obrázku jsou zastoupeny a žádné dvě karty nejsou stejné. Kolik je karet celkem?</question>
+    <answerA>75</answerA>
+    <answerB>45</answerB>
+    <answerC>30</answerC>
+    <answerD>15</answerD>
+    <answerE>8</answerE>
+    <correct>b</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Řešení rovnice 1 + 3z = i(7 + z) v komplexním oboru je</question>
+    <answerA>-1 + 2i</answerA>
+    <answerB>1 + 2i</answerB>
+    <answerC>1 - 2i</answerC>
+    <answerD>2 + i</answerD>
+    <answerE>2 - i</answerE>
+    <correct>a</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Koule má poloměr r = 2. Krychle o stejném objemu jako tato koule má hranu</question>
+    <answerA>&lt;img src="./tests/bc2011-4a/015-001.png" /&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-4a/015-002.png" /&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-4a/015-003.png" /&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-4a/015-004.png" /&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-4a/015-005.png" /&gt;</answerE>
+    <correct>d</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Když bylo Anně, kolik je dnes Báře, byla Bára dvakrát mladší, než je Anna teď. Za 10 let bude Anna dvakrát starší, než je Bára teď. O kolik let je Anna starší než Bára?</question>
+    <answerA>4</answerA>
+    <answerB>5</answerB>
+    <answerC>6</answerC>
+    <answerD>7</answerD>
+    <answerE>8</answerE>
+    <correct>b</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Rovnice cos(2x) + sin x = 0 má na intervalu &lt;img src="./tests/bc2011-4a/017-001.png" /&gt; řešení </question>
+    <answerA>&lt;img src="./tests/bc2011-4a/017-002.png" /&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-4a/017-003.png" /&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-4a/017-004.png" /&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-4a/017-005.png" /&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-4a/017-006.png" /&gt;</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>V krabici jsou předměty různých vlastností. Víme, že všechny krychle jsou modré a že v krabici není žádný modrý předmět s drsným povrchem. Jaký závěr ohledně předmětů v krabici z těchto informací můžeme vyvodit?</question>
+    <answerA>Žádná krychle nemá drsný povrch.</answerA>
+    <answerB>Některé krychle mají drsný povrch.</answerB>
+    <answerC>Všechny krychle mají drsný povrch.</answerC>
+    <answerD>Všechny modré předměty mají tvar krychle.</answerD>
+    <answerE>Žádné z předchozích tvrzení z uvedených předpokladů neplyne.</answerE>
+    <correct>a</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Operace &lt;img src="./tests/bc2011-4a/019-001.png" /&gt; je definována jako &lt;img src="./tests/bc2011-4a/019-002.png" /&gt;. Určete x, víme-li, že &lt;img src="./tests/bc2011-4a/019-003.png" /&gt;</question>
+    <answerA>0</answerA>
+    <answerB>-1</answerB>
+    <answerC>-2</answerC>
+    <answerD>-3</answerD>
+    <answerE>-4</answerE>
+    <correct>b</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Jeden tým vykoná určitou práci o 4 hodiny, druhý tým o 9 hodin později, než by ji zvládly při společné práci. Jak dlouho trvá práce rychlejšímu týmu?</question>
+    <answerA>16 hod</answerA>
+    <answerB>14 hod</answerB>
+    <answerC>12 hod</answerC>
+    <answerD>10 hod</answerD>
+    <answerE>8 hod</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+</tasks>

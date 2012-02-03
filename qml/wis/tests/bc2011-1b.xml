@@ -1,0 +1,224 @@
+<tasks>
+  <task>
+    <question> Množina všech řešení rovnice x = √x + 6 v oboru reálných čísel je</question>
+    <answerA>{3}</answerA>
+    <answerB>{-3}</answerB>
+    <answerC>{2}</answerC>
+    <answerD>{−3, 2}</answerD>
+    <answerE>{−2, 3}</answerE>
+    <correct>a</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Rovnice kružnice se středem S = [1, −1] a poloměrem r = 2 je</question>
+    <answerA>&lt;img src="./tests/bc2011-1b/002-001.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1b/002-002.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1b/002-003.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1b/002-004.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1b/002-005.png"&gt;</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>&lt;img src="./tests/bc2011-1b/003-001.png"&gt;</question>
+    <answerA>&lt;img src="./tests/bc2011-1b/003-002.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1b/003-003.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1b/003-004.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1b/003-005.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1b/003-006.png"&gt;</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Máme 56 lahví vína o objemu 0,75 litru. Kdyby víno bylo v lahvích o objemu 0,7 litru, kolik lahví by bylo naplněno?</question>
+    <answerA>58</answerA>
+    <answerB>60</answerB>
+    <answerC>62</answerC>
+    <answerD>63</answerD>
+    <answerE>64</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question>Množina všech řešení nerovnice &lt;img src="./tests/bc2011-1b/005-001.png"&gt; je</question>
+    <answerA>&lt;img src="./tests/bc2011-1b/005-002.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1b/005-003.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1b/005-004.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1b/005-005.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1b/005-006.png"&gt;</answerE>
+    <correct>b</correct>
+    <points>30</points>
+    <pointsWrong>-6</pointsWrong>
+  </task>
+  <task>
+    <question> Mezi čísly a, b, c, d, e platí nerovnosti: a &amp;lt; d, c &amp;gt; d, d &amp;gt; e, d &amp;lt; b. Který z následujících vztahů může platit?</question>
+    <answerA>b = c</answerA>
+    <answerB>a = c</answerB>
+    <answerC>b = e</answerC>
+    <answerD>Může platit kterýkoli z předchozích vztahů.</answerD>
+    <answerE>Nemůže platit ani jeden z předchozích vztahů.</answerE>
+    <correct>a</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Jestliže &lt;img src="./tests/bc2011-1b/007-001.png"&gt;, pak &lt;img src="./tests/bc2011-1b/007-002.png"&gt; právě pro</question>
+    <answerA>&lt;img src="./tests/bc2011-1b/007-003.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1b/007-004.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1b/007-005.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1b/007-006.png"&gt;</answerD>
+    <answerE>žádná z předchozích možností není správná</answerE>
+    <correct>d</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question> Jestliže x a y jsou dvě různá čísla z intervalu (0, π/2), pro která platí y = π/2 - x, pak</question>
+    <answerA>sin x = sin y</answerA>
+    <answerB>cos x = cos y</answerB>
+    <answerC>cos x = - sin y</answerC>
+    <answerD>sin x = - sin y</answerD>
+    <answerE>sin x = cos y</answerE>
+    <correct>e</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Určete všechny hodnoty parametru p, pro které rovnice &lt;img src="./tests/bc2011-1b/009-001.png"&gt; nemá reálné kořeny.</question>
+    <answerA>&lt;img src="./tests/bc2011-1b/009-002.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1b/009-003.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1b/009-004.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1b/009-005.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1b/009-006.png"&gt;</answerE>
+    <correct>c</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Jestliže čtvrtý člen geometrické posloupnosti je a&lt;sub&gt;4&lt;/sub&gt; = 27 a q = -3/2, pak součet prvních tří členů této posloupnosti je</question>
+    <answerA>-14</answerA>
+    <answerB>-9</answerB>
+    <answerC>0</answerC>
+    <answerD>9</answerD>
+    <answerE>14</answerE>
+    <correct>a</correct>
+    <points>40</points>
+    <pointsWrong>-8</pointsWrong>
+  </task>
+  <task>
+    <question>Je dána funkce &lt;img src="./tests/bc2011-1b/011-001.png"&gt;. Pak &lt;img src="./tests/bc2011-1b/011-002.png"&gt;</question>
+    <answerA>&lt;img src="./tests/bc2011-1b/011-003.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1b/011-004.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1b/011-005.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1b/011-006.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1b/011-007.png"&gt;</answerE>
+    <correct>a</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Přímky &lt;img src="./tests/bc2011-1b/012-001.png"&gt;jsou</question>
+    <answerA>kolmé</answerA>
+    <answerB>různoběžné, ale nikoli kolmé</answerB>
+    <answerC>rovnoběžné různé</answerC>
+    <answerD>totožné</answerD>
+    <answerE>mimoběžné</answerE>
+    <correct>c</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Máme kartičky, jejichž líc a rub je obarven některou ze tří barev, přičemž barva líce je vždy jiná než barva rubu. Na líci každé kartičky je jeden z pěti různých obrázků. Všechny přípustné kombinace barev líce a rubu a obrázku jsou zastoupeny a žádné dvě karty nejsou stejné. Kolik je karet celkem?</question>
+    <answerA>10</answerA>
+    <answerB>15</answerB>
+    <answerC>30</answerC>
+    <answerD>60</answerD>
+    <answerE>75</answerE>
+    <correct>c</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Řešení rovnice 4 − 2z = i(3 + z) v komplexním oboru je</question>
+    <answerA>-1 + 2i</answerA>
+    <answerB>1 + 2i</answerB>
+    <answerC>1 - 2i</answerC>
+    <answerD>2 + i</answerD>
+    <answerE>2 - i</answerE>
+    <correct>c</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question>Krychle má hranu a = 2. Koule o stejném objemu jako tato krychle má poloměr</question>
+    <answerA>&lt;img src="./tests/bc2011-1b/015-001.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1b/015-002.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1b/015-003.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1b/015-004.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1b/015-005.png"&gt;</answerE>
+    <correct>a</correct>
+    <points>50</points>
+    <pointsWrong>-10</pointsWrong>
+  </task>
+  <task>
+    <question> Máše je 24 let. Má dvakrát tolik let, jako bylo Dáše, když Máše bylo tolik let, jako je Dáše dnes. Kolik let je Dáše?</question>
+    <answerA>12</answerA>
+    <answerB>14</answerB>
+    <answerC>16</answerC>
+    <answerD>18</answerD>
+    <answerE>20</answerE>
+    <correct>d</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Množina všech řešení rovnice cos(2x) + 3 sin x + 1 = 0 v oboru reálných čísel (k je celé číslo) je právě</question>
+    <answerA>&lt;img src="./tests/bc2011-1b/017-001.png"&gt;</answerA>
+    <answerB>&lt;img src="./tests/bc2011-1b/017-002.png"&gt;</answerB>
+    <answerC>&lt;img src="./tests/bc2011-1b/017-003.png"&gt;</answerC>
+    <answerD>&lt;img src="./tests/bc2011-1b/017-004.png"&gt;</answerD>
+    <answerE>&lt;img src="./tests/bc2011-1b/017-005.png"&gt;</answerE>
+    <correct>c</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>V krabici jsou předměty různých vlastností. Víme, že některé žluté předměty mají tvar koule a že všechny koule jsou duté. Jaký závěr ohledně předmětů v krabici z těchto informací můžeme vyvodit?</question>
+    <answerA>Žádný dutý předmět není žlutý.</answerA>
+    <answerB>Žádný žlutý předmět není dutý.</answerB>
+    <answerC>Aspoň jeden dutý předmět je žlutý.</answerC>
+    <answerD>Všechny duté předměty jsou žluté.</answerD>
+    <answerE>Žádné z předchozích tvrzení z uvedených předpokladů neplyne.</answerE>
+    <correct>c</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question>Operace &lt;img src="./tests/bc2011-1b/019-001.png"&gt; je definována jako &lt;img src="./tests/bc2011-1b/019-002.png"&gt;. Určete x, víme-li, že &lt;img src="./tests/bc2011-1b/019-003.png"&gt;.</question>
+    <answerA>-2</answerA>
+    <answerB>-1</answerB>
+    <answerC>0</answerC>
+    <answerD>1</answerD>
+    <answerE>2</answerE>
+    <correct>b</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+  <task>
+    <question> Dvě pumpy vyčerpají cisternu za 4,8 hodiny. První pumpou by se cisterna vyprázdnila o 4 hodiny dříve než druhou pumpou. Za kolik hodin by se cisterna vyprázdnila pouze první (výkonnější) pumpou?
+(Pomůcka: 5,6&lt;sup&gt;2&lt;/sup&gt; = 31,36; 10,4&lt;sup&gt;2&lt;/sup&gt; = 108,16; 13,6&lt;sup&gt;2&lt;/sup&gt; = 184,96; 28&lt;sup&gt;2&lt;/sup&gt; = 784; 52&lt;sup&gt;2&lt;/sup&gt; = 2704; 68&lt;sup&gt;2&lt;/sup&gt; = 4624)
+</question>
+    <answerA>6</answerA>
+    <answerB>7,6</answerB>
+    <answerC>8</answerC>
+    <answerD>9,6</answerD>
+    <answerE>10,4</answerE>
+    <correct>c</correct>
+    <points>80</points>
+    <pointsWrong>-16</pointsWrong>
+  </task>
+</tasks>
