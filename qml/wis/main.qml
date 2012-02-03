@@ -5,19 +5,27 @@ import cz.vutbr.fit.pcmlich 1.0
 PageStackWindow {
     id: appWindow
 
-    initialPage: mainPage
-//    initialPage: newsPage;
+//    initialPage: testPage
+
+    initialPage: mainPage;
+
+
 
     MainPage {
         id: mainPage
-        onShowEnroled: {
-            pageStack.push(enroledPage)
-        }
+
         onShowConfiguration: {
             pageStack.push(configPage)
         }
+
+        onShowEnroled: {
+            pageStack.push(enroledPage)
+        }
         onShowNews: {
             pageStack.push(newsPage)
+        }
+        onShowTests: {
+            pageStack.push(testListPage)
         }
     }
 
@@ -72,6 +80,18 @@ PageStackWindow {
         }
     }
 
+    TestListPage {
+        id: testListPage;
+        onTestSelected: {
+            testPage.testName = filename
+            pageStack.push(testPage)
+        }
+        onBack: {
+            pageStack.pop();
+        }
+    }
+
+
     Downloader {
         id: downloader;
         onResponseChanged: {
@@ -95,6 +115,12 @@ PageStackWindow {
     }
 
 
+    TestPage {
+        id: testPage;
+        onBack: {
+            pageStack.pop();
+        }
+    }
 
 
 }

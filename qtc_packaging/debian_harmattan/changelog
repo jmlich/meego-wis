@@ -1,3 +1,8 @@
+wis (0.0.3) unstable; urgency=low
+  * API pro prijmaci testy a ukázkový test
+
+ -- Jozef Mlich <imlich@unknown>  Fri, 20 Jan 2012 17:50:32 +0100
+
 wis (0.0.2) unstable; urgency=low
   * the password is stored after return pressed
 

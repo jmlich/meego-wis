@@ -1,7 +1,7 @@
 import QtQuick 1.1
 import com.nokia.meego 1.0
 
-Page {
+WisPage {
     id: courseDetail
     tools: courseTools
     signal back;

@@ -1,7 +1,7 @@
 import QtQuick 1.1
 import com.nokia.meego 1.0
 
-Page {
+WisPage {
     tools: enroledTools
 
     property alias model: wismodel
@@ -70,7 +70,8 @@ Page {
             delegate: Rectangle {
                 width: parent.width;
                 height: 88;
-                color: itemMouseArea.pressed ? Qt.darker("#ffe0e1e2", 1.2) : "#ffe0e1e2"
+                //color: itemMouseArea.pressed ? Qt.darker("#ffe0e1e2", 1.2) : "#ffe0e1e2"
+                color: itemMouseArea.pressed ? "#ffe0e1e2" : "white"
                 Label {
                     clip: true;
                     anchors.margins: 10

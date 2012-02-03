@@ -1,7 +1,7 @@
 import QtQuick 1.1
 import com.nokia.meego 1.0
 
-Page {
+WisPage {
 
     tools: newsTools
 
@@ -50,7 +50,8 @@ Page {
                 height: rssTitle.paintedHeight + rssDescripption.paintedHeight + 40
 
 
-                color: "#ffe0e1e2"
+//                color: "#ffe0e1e2"
+                color: "white"
 //                color: itemMouseArea.pressed ? Qt.darker("#ffe0e1e2", 1.2) : "#ffe0e1e2"
                 Label {
                     id: rssTitle
@@ -62,6 +63,7 @@ Page {
                     font.pixelSize: 34
                     text: model.title
                     wrapMode: Text.WordWrap;
+                    textFormat: Text.RichText
                 }
 
                 Label {
@@ -74,6 +76,7 @@ Page {
                     font.pixelSize: 20
                     text: model.text
                     wrapMode: Text.WordWrap;
+                    textFormat: Text.RichText
                 }
 
 /*
