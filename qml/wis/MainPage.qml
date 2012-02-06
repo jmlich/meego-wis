@@ -33,6 +33,7 @@ WisPage {
                 anchors.left: parent.left;
                 anchors.verticalCenter: parent.verticalCenter
                 font.pixelSize: 34
+                color: "black"
                 text: qsTr("News")
             }
 
@@ -60,6 +61,7 @@ WisPage {
                 width: parent.width
                 anchors.left: parent.left;
                 anchors.verticalCenter: parent.verticalCenter
+                color: "black"
                 font.pixelSize: 34
                 text: qsTr("Enrolled Courses")
             }
@@ -86,6 +88,7 @@ WisPage {
                 anchors.left: parent.left;
                 anchors.verticalCenter: parent.verticalCenter
                 font.pixelSize: 34
+                color: "black"
                 text: qsTr("Admission test")
             }
 

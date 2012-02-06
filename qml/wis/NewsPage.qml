@@ -64,6 +64,7 @@ WisPage {
                     text: model.title
                     wrapMode: Text.WordWrap;
                     textFormat: Text.RichText
+                    color: "black"
                 }
 
                 Label {
@@ -77,6 +78,7 @@ WisPage {
                     text: model.text
                     wrapMode: Text.WordWrap;
                     textFormat: Text.RichText
+                    color: "black"
                 }
 
 /*

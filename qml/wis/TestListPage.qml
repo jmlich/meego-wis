@@ -56,6 +56,7 @@ WisPage {
                 anchors.verticalCenter: parent.verticalCenter
                 font.pixelSize: 34
                 text: model.title
+                color: "black"
             }
 
 

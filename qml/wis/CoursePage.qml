@@ -62,31 +62,37 @@ WisPage {
 
         Label {
             id: m_abbrv;
+            color: "black"
             text: qsTr("abbreviation") + ": " + courseDetail.abbrv
         }
 
         Label {
             id: m_type;
+            color: "black"
             text: qsTr("type") + ": " + typeToString(courseDetail.type)
         }
 
         Label {
             id: m_completion;
+            color: "black"
             text: qsTr("completion") + ": " + completionToString(courseDetail.completion)
         }
 
         Label {
             id: m_points
+            color: "black"
             text: qsTr("points") + ": " + courseDetail.points
         }
 
         Label {
             id: m_credits
+            color: "black"
             text: qsTr("credits") + ": " + courseDetail.credits
         }
 
         Label {
             id: m_upd_ts
+            color: "black"
             text: qsTr("update") + ": " + courseDetail.upd_ts
         }
     }

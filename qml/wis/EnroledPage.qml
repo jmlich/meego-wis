@@ -79,6 +79,7 @@ WisPage {
                     anchors.left: parent.left;
                     anchors.verticalCenter: parent.verticalCenter
                     font.pixelSize: 34
+                    color: "black"
                     text: model.title
                 }
 
@@ -87,6 +88,7 @@ WisPage {
                     anchors.right: parent.right;
                     anchors.verticalCenter: parent.verticalCenter
                     font.pixelSize: 34
+                    color: "black"
                     text: model.points
                 }
 
