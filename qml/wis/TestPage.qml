@@ -8,8 +8,8 @@ WisPage {
     ToolBarLayout {
         id: testPageTools
         visible: true
-        ToolIcon {
-            platformIconId: "toolbar-back"
+        MyToolIcon {
+            myPlatformIconId: "toolbar-back"
             anchors.left: parent.left
             onClicked: back();
         }
@@ -360,7 +360,10 @@ WisPage {
             }
         }
 
-        buttons: Button { text: qsTr("continue"); onClicked: testSummary.accept(); platformStyle: ButtonStyle { inverted: true } }
+        buttons: Button { text: qsTr("continue"); onClicked: testSummary.accept(); 
+        // FIXME SYMBIAN
+                platformStyle: ButtonStyle { inverted: true } 
+        }
 
         onAccepted: {
             testPage.back();
@@ -391,9 +394,11 @@ WisPage {
 
             anchors.horizontalCenter: parent.horizontalCenter
             Button { text: qsTr("submit"); onClicked: reportDialog.accept();
+// FIXME Symbian
                 platformStyle: ButtonStyle { inverted: true }
             }
             Button { text: qsTr("cancel"); onClicked: reportDialog.reject();
+// FIXME Symbian
                 platformStyle: ButtonStyle { inverted: true }
             }
         }

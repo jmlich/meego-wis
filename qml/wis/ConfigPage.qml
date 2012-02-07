@@ -54,8 +54,8 @@ WisPage {
     ToolBarLayout {
         id: configTools
         visible: true
-        ToolIcon {
-            platformIconId: "toolbar-back"
+        MyToolIcon {
+            myPlatformIconId: "toolbar-back"
             anchors.left: (parent === undefined) ? undefined : parent.left;
             onClicked: {
                 save();

@@ -7,8 +7,8 @@ WisPage {
     ToolBarLayout {
         id: mainPageTools
         visible: true
-        ToolIcon {
-            platformIconId: "toolbar-back"
+        MyToolIcon {
+            myPlatformIconId: "toolbar-back"
             anchors.left: parent.left
             onClicked: back();
         }

@@ -3,9 +3,42 @@
 #include "qmlapplicationviewer.h"
 #include "downloader.h"
 
+/*
+void myMessageOutput(QtMsgType type, const char *msg)
+{
+    //QFile file("C:/data/out.txt");
+    QFile file("/home/user/out.txt");
+    if (!file.open(QIODevice::WriteOnly | QIODevice::Text))
+        return;
+
+    QTextStream out(&file);
+    out << "The magic number is: " << 49 << "\n";
+
+
+    switch (type) {
+    case QtDebugMsg:
+        out << msg << "\n";
+        fprintf(stderr, "Debug: %s\n", msg);
+        break;
+    case QtWarningMsg:
+        out << msg << "\n";
+        fprintf(stderr, "Warning: %s\n", msg);
+        break;
+    case QtCriticalMsg:
+        out << msg << "\n";
+        fprintf(stderr, "Critical: %s\n", msg);
+        break;
+    case QtFatalMsg:
+        out << msg << "\n";
+        fprintf(stderr, "Fatal: %s\n", msg);
+        abort();
+    }
+}
+*/
+
 Q_DECL_EXPORT int main(int argc, char *argv[])
 {
-
+//     qInstallMsgHandler(myMessageOutput);
     QScopedPointer<QApplication> app(createApplication(argc, argv));
 
     QString locale = "cs_CZ"; //QLocale::system().name();
