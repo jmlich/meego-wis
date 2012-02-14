@@ -14,7 +14,6 @@ void myMessageOutput(QtMsgType type, const char *msg)
     QTextStream out(&file);
     out << "The magic number is: " << 49 << "\n";
 
-
     switch (type) {
     case QtDebugMsg:
         out << msg << "\n";
@@ -34,6 +33,7 @@ void myMessageOutput(QtMsgType type, const char *msg)
         abort();
     }
 }
+
 */
 
 Q_DECL_EXPORT int main(int argc, char *argv[])
