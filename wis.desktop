@@ -6,6 +6,6 @@ Terminal=false
 Name=wis
 Exec=/opt/wis/bin/wis
 Icon=wis64
-X-Window-Icon=
+X-Window-Icon=wis64
 X-HildonDesk-ShowInToolbar=true
 X-Osso-Type=application/x-executable

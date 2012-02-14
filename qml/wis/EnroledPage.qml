@@ -108,15 +108,15 @@ WisPage {
     ToolBarLayout {
         id: enroledTools
         visible: true
-        ToolIcon {
-            platformIconId: "toolbar-back"
+        MyToolIcon {
+            myPlatformIconId: "toolbar-back"
             anchors.left: (parent === undefined) ? undefined : parent.left;
             onClicked: {
                 back();
             }
         }
-        ToolIcon {
-            platformIconId: "toolbar-refresh"
+        MyToolIcon {
+            myPlatformIconId: "toolbar-refresh"
             anchors.right: (parent === undefined) ? undefined : parent.right
             onClicked: {
                 refresh();

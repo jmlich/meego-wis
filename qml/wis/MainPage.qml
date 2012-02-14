@@ -108,8 +108,8 @@ WisPage {
     ToolBarLayout {
         id: mainTools
         visible: true
-        ToolIcon {
-            platformIconId: "toolbar-view-menu"
+        MyToolIcon {
+            myPlatformIconId: "toolbar-view-menu"
             anchors.left: (parent === undefined) ? undefined : parent.left;
             onClicked: {
                 showConfiguration();
