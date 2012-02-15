@@ -79,18 +79,12 @@ WisPage {
                     wrapMode: Text.WordWrap;
                     textFormat: Text.RichText
                     color: "black"
-                }
-
-/*
-                MouseArea {
-                    id: itemMouseArea;
-                    anchors.fill: parent;
-                    onClicked: {
-                        courseSelected(model.title, model.course_id, model.abbrv, model.type, model.completion, model.points, model.credits, model.upd_ts);
-
+                    onLinkActivated: {
+                        Qt.openUrlExternally(link);
                     }
                 }
-*/
+
+
             }
         }
 
